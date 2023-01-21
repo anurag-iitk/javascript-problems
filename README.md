@@ -6,3 +6,4 @@
 4. Search element an array
 5. Merge two array
 6. Sorting array
+7. Recursion
