@@ -5,3 +5,4 @@
 3. Delete element an array
 4. Search element an array
 5. Merge two array
+6. Sorting array
