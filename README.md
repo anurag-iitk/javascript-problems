@@ -9,3 +9,4 @@
 7. Recursion
 8. Stack
 9. Reverse string using Stack with class
+10. Queue
