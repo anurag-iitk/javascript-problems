@@ -112,3 +112,18 @@ function sortArray(arr){
 }
 
 
+// Problem 7    ===============>    Reverse array element
+
+function reverseArray(arr, start, end){
+  if(start <= end){
+    let temp = arr[end];
+    arr[end] = arr[start];
+    arr[start] = temp;
+    return reverseArray(arr, start+1, end-1);
+  }
+  console.log(`Reverse array: ${arr}`);
+}
+
+reverseArray(arr1, 0, arr1.length-1);
+
+
