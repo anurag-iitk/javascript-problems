@@ -11,3 +11,4 @@
 9. Reverse string using Stack with class
 10. Queue
 11. Circular Queue
+12. Binary search using iterator and recursion
