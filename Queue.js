@@ -43,6 +43,20 @@ class Queue {
             this.enqueue(arr[i]);
         }
     }
+    
+// To get front
+    front(){
+        console.log(this.item[0]);
+    }
+
+// To get Rear
+    rear(){
+        if(this.currentSize == 0){
+            console.log("Queue is empty");
+        } else {
+            console.log(arr[this.currentSize-1])
+        }
+    }
 
 }
 
@@ -55,3 +69,5 @@ obj.addArray(arr);
 obj.dequeue();
 obj.dequeue();
 obj.display();
+obj.front();
+obj.rear();
