@@ -13,4 +13,4 @@
 11. Circular Queue
 12. Binary search using iterator and recursion
 13. Selection sort
-14. Descending order using Selection sort
+14. Descending order using Selection sort using class
