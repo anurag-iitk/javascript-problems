@@ -12,3 +12,4 @@
 10. Queue
 11. Circular Queue
 12. Binary search using iterator and recursion
+13. Selection sort
