@@ -14,3 +14,4 @@
 12. Binary search using iterator and recursion
 13. Selection sort
 14. Descending order using Selection sort using class
+15. Insertion sort
