@@ -17,3 +17,4 @@
 15. Insertion sort
 16. Anagram program
 17. Palindrom program
+18. Maximum occurring element in string
