@@ -17,4 +17,5 @@
 15. Insertion sort
 16. Anagram program
 17. Palindrom program
-18. Maximum occurring element in string
+18. Maximum occurring element in string using object
+19. Map data structure
