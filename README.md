@@ -20,3 +20,4 @@
 18. Maximum occurring element in string using object
 19. Map data structure
 20. Set data structure
+21. Linked list with insert and traversing node
