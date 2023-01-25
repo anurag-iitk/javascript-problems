@@ -22,3 +22,4 @@
 20. Set data structure
 21. Linked list with insert at end and traversing all node
 22. Linkded list insert at index, delete node and search node
+23. Binary Search Tree
