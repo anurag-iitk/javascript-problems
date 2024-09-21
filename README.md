@@ -1,4 +1,4 @@
-# DSA-JavaScript
+# JavaScript Problems
 
 1. Traversal Array
 2. Insert element an array
